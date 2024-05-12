@@ -27,9 +27,5 @@ function App() {
     </>
   )
 }
-<<<<<<< HEAD
 
-export default App
-=======
 export default App;
->>>>>>> c0908f9 (fixed vercel route error)
